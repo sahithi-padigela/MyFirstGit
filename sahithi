@@ -1,0 +1,3 @@
+git remote -v
+git branch --show-current
+gh auth status
